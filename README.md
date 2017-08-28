@@ -19,7 +19,7 @@ optional
 
 ### 2 Change directory into repo folder 
 
-`cd simple-www-server`
+`cd xantum-task`
 
 ### 3 Install dependencies 
 
